@@ -27,6 +27,7 @@ namespace FoodOde
             {
                 app.UseDeveloperExceptionPage();
             }
+            
 
             app.Run(async (context) =>
             {
